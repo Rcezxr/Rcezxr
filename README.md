@@ -8,12 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
-</div>
-
-<br/>
-
 ## 👨‍💻 Sobre mim
 
 ```javascript
@@ -59,6 +53,14 @@ Projeto web interativo · `HTML` `CSS` `JavaScript`
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rcezxr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&bg_color=1a1b27&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcezxr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9"/>
 
+</div>
+
+<br/>
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rcezxr&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27" width="95%"/>
 </div>
 
 <br/>
