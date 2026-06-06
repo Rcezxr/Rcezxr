@@ -40,7 +40,15 @@
 
 ---
 
-### 🐍 Contribuições
+### 📈 Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rcezxr&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+### 🐍 Contribuições como cobra
 
 <div align="center">
   <picture>
