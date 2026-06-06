@@ -1,17 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Ryan%20Cezar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20em%20construção%20🚀&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 👋 Olá! Eu sou o Ryan
-
-Estudante de desenvolvimento web focado em construir interfaces modernas e funcionais.
-Atualmente a aprender e crescer um projeto de cada vez.
+# Ryan Cezar
+### Frontend Developer em construção 🚀
 
 </div>
 
@@ -38,18 +28,26 @@ Atualmente a aprender e crescer um projeto de cada vez.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcezxr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rcezxr&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 ### 📂 Projetos
 
 <div align="center">
 
-[![Around Portugal](https://github-readme-stats.vercel.app/api/pin/?username=Rcezxr&repo=web_project_around_pt&theme=tokyonight&hide_border=true)](https://github.com/Rcezxr/web_project_around_pt)
+[![Around the U.S](https://github-readme-stats.vercel.app/api/pin/?username=Rcezxr&repo=web_project_around_us&theme=tokyonight&hide_border=true)](https://github.com/Rcezxr/web_project_around_us)
 
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rcezxr/Rcezxr/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rcezxr/Rcezxr/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Rcezxr/Rcezxr/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
@@ -62,8 +60,4 @@ Atualmente a aprender e crescer um projeto de cada vez.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.cezar118720@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rcezxr)
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
