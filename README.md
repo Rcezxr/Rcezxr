@@ -1,7 +1,17 @@
 <div align="center">
 
-# Ryan Cezar
-### Frontend Developer em construção 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Ryan%20Cezar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20em%20construção%20🚀&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Olá! Eu sou o Ryan
+
+Estudante de desenvolvimento web focado em construir interfaces modernas e funcionais.
+Atualmente a aprender e crescer um projeto de cada vez.
 
 </div>
 
@@ -21,27 +31,21 @@
 
 ---
 
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rcezxr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcezxr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
 ### 📂 Projetos
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="400">
-      <a href="https://github.com/Rcezxr/web_project_around_us">
-        <img src="https://img.shields.io/badge/🌎_Around_the_U.S-0d1117?style=for-the-badge" alt="Around the U.S"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <br/><br/>
-        <p>Projeto web interativo de viagens pelos Estados Unidos</p>
-        <br/>
-        <img src="https://img.shields.io/github/last-commit/Rcezxr/web_project_around_us?style=flat-square&color=58a6ff"/>
-        <img src="https://img.shields.io/github/stars/Rcezxr/web_project_around_us?style=flat-square&color=yellow"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![Around the U.S](https://github-readme-stats.vercel.app/api/pin/?username=Rcezxr&repo=web_project_around_us&theme=tokyonight&hide_border=true)](https://github.com/Rcezxr/web_project_around_us)
+
 </div>
 
 ---
@@ -66,4 +70,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.cezar118720@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rcezxr)
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
