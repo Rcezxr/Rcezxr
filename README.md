@@ -21,34 +21,32 @@
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rcezxr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcezxr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ### 📂 Projetos
 
 <div align="center">
-
-[![Around the U.S](https://github-readme-stats.vercel.app/api/pin/?username=Rcezxr&repo=web_project_around_us&theme=tokyonight&hide_border=true)](https://github.com/Rcezxr/web_project_around_us)
-
+<table>
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/Rcezxr/web_project_around_us">
+        <img src="https://img.shields.io/badge/🌎_Around_the_U.S-0d1117?style=for-the-badge" alt="Around the U.S"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <br/><br/>
+        <p>Projeto web interativo de viagens pelos Estados Unidos</p>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/Rcezxr/web_project_around_us?style=flat-square&color=58a6ff"/>
+        <img src="https://img.shields.io/github/stars/Rcezxr/web_project_around_us?style=flat-square&color=yellow"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-### 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rcezxr&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-### 🐍 Contribuições como cobra
+### 🐍 Contribuições
 
 <div align="center">
   <picture>
