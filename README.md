@@ -57,14 +57,6 @@ Projeto web interativo · `HTML` `CSS` `JavaScript`
 
 <br/>
 
-## 📈 Gráfico de Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rcezxr&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27" width="95%"/>
-</div>
-
-<br/>
-
 ## 🏆 Conquistas
 
 <div align="center">
