@@ -8,6 +8,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+</div>
+
+<br/>
+
 ## 👨‍💻 Sobre mim
 
 ```javascript
@@ -26,15 +32,7 @@ const ryan = {
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" alt="skills"/>
 
 </div>
 
@@ -60,6 +58,16 @@ Projeto web interativo · `HTML` `CSS` `JavaScript`
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rcezxr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&bg_color=1a1b27&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcezxr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<br/>
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rcezxr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="trophy" />
 
 </div>
 
